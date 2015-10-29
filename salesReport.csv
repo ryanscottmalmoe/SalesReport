@@ -1,0 +1,38 @@
+SALES REPORT
+Total Orders, Total Sales, Total Items, Total Weight
+9,6003.0000,22,5.6000000000000005
+
+Orders:
+
+Customer:,501,Order#:,1920,Order Date:,2014-10-06 00:00:00.0
+123 Some St.
+Portland,OR,96501
+SKU:, Description:, Price:, Quantity:, Weight:, Total Price:, Total Weight:, Order Total:
+RD1,Report Downloader,495.0000,1,0.5,495.0000,0.5
+SFD1,Smart File Downloader,295.0000,2,0.5,590.0000,1
+, , , , , , , 1085
+
+Customer:,502,Order#:,1921,Order Date:,2014-10-08 00:00:00.0
+456 Another St.
+San Diego,CA,92111
+SKU:, Description:, Price:, Quantity:, Weight:, Total Price:, Total Weight:, Order Total:
+HC1,WPF Toolkit,38.0000,1,0.7,38.0000,0.7
+RD1,Report Downloader,495.0000,3,0.5,1485.0000,1.5
+TRF1,TCP for IBM,42.0000,1,0.8,42.0000,0.8
+HC1,WPF Toolkit,38.0000,1,0.7,38.0000,0.7
+RD1,Report Downloader,495.0000,1,0.5,495.0000,0.5
+, , , , , , , 2098
+
+Customer:,504,Order#:,1923,Order Date:,2014-11-01 15:32:44.0
+1000 Aviation Way
+Chicago,IL,61001
+SKU:, Description:, Price:, Quantity:, Weight:, Total Price:, Total Weight:, Order Total:
+RD2,Downloader Kit,235.0000,2,0.7,470.0000,1.4
+, , , , , , , 470
+
+Customer:,505,Order#:,1924,Order Date:,2014-11-01 15:33:14.0
+5660 Clairmont Mesa Blvd.
+San Diego,CA,92111
+SKU:, Description:, Price:, Quantity:, Weight:, Total Price:, Total Weight:, Order Total:
+RD2,Downloader Kit,235.0000,10,0.7,2350.0000,7
+, , , , , , , 2350
